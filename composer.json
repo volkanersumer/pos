@@ -16,7 +16,6 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "ext-SimpleXML": "*",
-        "guzzlehttp/guzzle": "^6.3.3",
         "symfony/http-foundation": "^5.0",
         "symfony/serializer": "^5.0"
     },
